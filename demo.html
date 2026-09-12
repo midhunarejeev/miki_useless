@@ -1247,10 +1247,10 @@
 
             if (mozzyPos.y < 70) {
                 mozzyPos.y = 70;
-                mozzyVel.y *= -1.2;
+                mozzyVel.x *= -1.2;
             } else if (mozzyPos.y > screenHeight - 70) {
                 mozzyPos.y = screenHeight - 70;
-                mozzyVel.y *= -1.2;
+                mozzyVel.x *= -1.2;
             }
 
             // Rotation follows flight vector with smooth interpolation
