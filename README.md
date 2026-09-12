@@ -83,6 +83,14 @@ python -m http.server 8000
 
 ---
 
+## Screenshots
+<img width="1600" height="767" alt="23cfc597-ab06-414a-b0ee-d56314cfe1a8" src="https://github.com/user-attachments/assets/500cbae3-8d0b-4c3a-a6d0-b050274d41d5" />
+
+<img width="1600" height="627" alt="b7a2e019-c5d2-4c08-b389-76447df91a2e" src="https://github.com/user-attachments/assets/d10c26cb-7a97-4d99-b03d-e863e3c44d13" />
+
+<img width="1600" height="759" alt="cead65e5-53da-4c2a-8694-4ecc9b58f28e" src="https://github.com/user-attachments/assets/a4161357-4cf3-4c69-b852-568342fa3f73" />
+
+
 ## Project Demo
 ### Web Application
 Launch `index.html` or `demo.html` in your browser to experience zero productivity and maximum irritation!
