@@ -7,9 +7,9 @@
 ### Team Name: The Unemployed Coders
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Midhuna Rejeev-Christ College Of Engineering Irinjalakuda
+- Member 2:  Midhuna Rejeev-Christ College Of Engineering Irinjalakuda
+- Member 3: Krishna Veni C B-Christ College Of Engineering Irinjalakuda
 
 ### Project Description
 A cute digital mosquito that flies around your screen, taunts your reflexes, dodges your clicks with quantum evasion physics, buzzes into your headphones with 3D procedural audio, and completely obliterates human workplace productivity.
